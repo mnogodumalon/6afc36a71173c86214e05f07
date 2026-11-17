@@ -1,0 +1,30 @@
+{
+  "pages": {
+    "en": {
+      "Alle Umfragen sind abgeschlossen.": "All polls are closed.",
+      "Auf „{0}“ hat noch niemand geantwortet — teile den Link.": "No one has responded to \"{0}\" yet — share the link.",
+      "Beliebtesten Termin festlegen & schließen": "Set most popular date & close",
+      "Bereit zur Entscheidung": "Ready to decide",
+      "Erste Umfrage anlegen": "Create first poll",
+      "Festlegen": "Set",
+      "Finaler Termin": "Final date",
+      "Keine Umfrage in dieser Ansicht.": "No polls in this view.",
+      "Keine anstehenden Terminvorschläge in offenen Umfragen.": "No upcoming date options in open polls.",
+      "Lege deine erste Umfrage an und teile den Link.": "Create your first poll and share the link.",
+      "Meiste Ja": "Most Yes",
+      "Neue Umfrage": "New poll",
+      "Noch keine Terminvorschläge.": "No date options yet.",
+      "Noch keine Umfrage. Lege eine an, trage Terminvorschläge ein und teile den Link.": "No polls yet. Create one, add date options and share the link.",
+      "Noch keine offene Umfrage mit Antworten.": "No open polls with responses yet.",
+      "Nächste Terminvorschläge": "Upcoming date options",
+      "Offene Umfragen": "Open polls",
+      "Ohne Antworten": "No responses",
+      "Ohne finalen Termin": "Without final date",
+      "{0} Ja": "{0} Yes",
+      "{0} Vielleicht": "{0} Maybe",
+      "„{0}“ hat Antworten — du kannst den Termin festlegen.": "\"{0}\" has responses — you can set the date.",
+      "„{0}“ und {1} weitere warten auf deine Entscheidung.": "\"{0}\" and {1} more are waiting for your decision."
+    }
+  },
+  "v": 1
+}
